@@ -49,7 +49,7 @@ python CloudDNS.py
 ```
 
 ### 4. 或者直接使用已打包完成的程序启动
-点击这里下载已打包程序
+点击这里下载已打包程序[CloudDNS](https://github.com/QsSama-W/CloudDNS/releases/tag/v1.0.0)
 
 ---
 
